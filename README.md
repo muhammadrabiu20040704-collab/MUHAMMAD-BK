@@ -1,22 +1,23 @@
-# 👋 Hi, I'm Muhammad Rabiu
+<h1 align="center">Hi 👋, I'm Muhammad Rabiu</h1>
 
-## 💻 About Me
+<h3 align="center">
+Computer Science Student | Full-Stack Developer | Software Engineering Enthusiast
+</h3>
 
-🎓 Computer Science Student from Nigeria.
+<p align="center">
+Building modern web applications and solving real-world problems with code.
+</p>
 
-🚀 Currently building the MBK School Management System.
+---
 
-🌱 Learning Full-Stack Web Development with:
+## 👨‍💻 About Me
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Git & GitHub
+- 🎓 Computer Science Student from Nigeria 🇳🇬
+- 💻 Passionate about Full-Stack Web Development
+- 🚀 Currently building **MBK School Management System**
+- 🌱 Learning **TypeScript, React, Node.js, Express.js, MongoDB**
+- 📚 Improving my skills every day through coding and projects
+- 🎯 Goal: Become a Professional Software Engineer
 
 ---
 
@@ -24,44 +25,76 @@
 
 ### MBK School Management System
 
-Features:
+Features include:
 
-- Student Management
-- Lecturer Dashboard
-- Admin Dashboard
-- Course Management
-- Assignment System
-- Attendance
-- Results
-- Authentication
+- 👨‍🎓 Student Management
+- 👨‍🏫 Lecturer Dashboard
+- 👨‍💼 Admin Dashboard
+- 📚 Course Management
+- 📝 Assignment System
+- 📊 Result Management
+- ✅ Attendance System
+- 🔐 Authentication & Authorization
 
 ---
 
 ## 🛠 Tech Stack
+
+### Frontend
 
 - HTML5
 - CSS3
 - JavaScript
 - TypeScript
 - React
+- Vite
+
+### Backend
+
 - Node.js
-- Express
+- Express.js
+
+### Database
+
 - MongoDB
+
+### Tools
+
 - Git
 - GitHub
+- VS Code
+- Postman
 
 ---
 
-## 🎯 Goals
+## 🌱 Currently Learning
 
-- Become a Professional Full-Stack Developer
-- Build Software that Solves Real Problems
-- Contribute to Open Source
-- Work with International Clients
+- Advanced React
+- TypeScript
+- Backend Architecture
+- REST APIs
+- Authentication
+- MongoDB
+- Clean Code
+- Software Engineering
 
 ---
 
-## 📫 Contact
+## 📈 2026 Goals
 
-Email:
-muhammadrabiu20040704@gmail.com
+- ✅ Complete MBK School Management System
+- ✅ Build Portfolio Website
+- ✅ Learn Next.js
+- ✅ Contribute to Open Source
+- ✅ Get Remote Software Engineering Opportunities
+
+---
+
+## 🤝 Let's Connect
+
+- GitHub: https://github.com/MUHAMMAD-BK
+- Email: muhammadrabiu20040704@gmail.com
+
+---
+
+⭐ Thank you for visiting my profile.
