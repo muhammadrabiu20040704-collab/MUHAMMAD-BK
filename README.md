@@ -98,3 +98,9 @@ Features include:
 ---
 
 ⭐ Thank you for visiting my profile.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUHAMMAD-BK&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-BK&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MUHAMMAD-BK&theme=github-dark)
